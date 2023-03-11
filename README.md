@@ -11,7 +11,6 @@ This new assignment consists of two technical products. You will submit the foll
   * Deliverable 1: Scrape titles and preview text from Mars news articles.
 
   * Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
-Files
 
 ## Instructions
 
@@ -21,9 +20,7 @@ Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipyn
 
  1. Use automated browsing to visit the Mars news site Links to an external site.. Inspect the page to identify which elements to scrape.
 
-#### HINT
-
-  * To identify which elements to scrape, you might want to inspect the page by using Chrome DevTools.
+#### HINT: *To identify which elements to scrape, you might want to inspect the page by using Chrome DevTools.*
 
  2. Create a Beautiful Soup object and use it to extract text elements from the website.
 
