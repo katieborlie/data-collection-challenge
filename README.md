@@ -1,5 +1,9 @@
 # data-collection-challenge
 
+
+https://cdn1.epicgames.com/ue/product/Screenshot/GigaMars00007Layer%201-1920x1080-f4b1ab3ad4f27c50e98dd7f86e65f6c8.jpg?resize=1&w=1920![image](https://user-images.githubusercontent.com/119274891/224470168-a218dfd0-27f6-4442-8faf-ecc5df5c38ad.png)
+
+
 ## Background
 
 You’re now ready to take on a full web-scraping and data analysis project. You’ve learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. You’ve also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
