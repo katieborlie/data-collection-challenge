@@ -1,7 +1,7 @@
 # data-collection-challenge
 
 
-https://cdn1.epicgames.com/ue/product/Screenshot/GigaMars00007Layer%201-1920x1080-f4b1ab3ad4f27c50e98dd7f86e65f6c8.jpg?resize=1&w=1920![image](https://user-images.githubusercontent.com/119274891/224470168-a218dfd0-27f6-4442-8faf-ecc5df5c38ad.png)
+<img width="531" alt="Screenshot 2023-03-11 at 2 00 13 AM" src="https://user-images.githubusercontent.com/119274891/224470208-97f01a5f-89b4-4fc5-82c4-8820c7c89eb9.png">
 
 
 ## Background
